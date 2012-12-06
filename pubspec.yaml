@@ -6,7 +6,5 @@ authors:
 - Adam Singer <financeCoding@gmail.com>
 homepage: https://github.com/chrisbu/CrimsonHttp
 dependencies:
-  unittest:
-    sdk: unittest
   log4dart: 
     git: https://github.com/linkTDP/log4dart.git
