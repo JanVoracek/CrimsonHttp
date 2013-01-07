@@ -1,1 +1,1 @@
-{"packages":{"log4dart":{"version":"1.0.0","source":"git","description":{"url":"https://github.com/linkTDP/log4dart.git","ref":null,"resolved-ref":"f302bac96f611b2333a688486c233f3defca067c"}},"sprintf":{"version":"1.0.1","source":"hosted","description":"sprintf"},"unittest":{"version":"0.0.0-r.15699","source":"sdk","description":"unittest"}}}
+{"packages":{"log4dart":{"version":"1.2.0","source":"hosted","description":"log4dart"},"sprintf":{"version":"1.0.1","source":"hosted","description":"sprintf"},"unittest":{"version":"0.2.9+7","source":"sdk","description":"unittest"}}}

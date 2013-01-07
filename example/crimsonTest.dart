@@ -17,7 +17,7 @@ void main() {
                     .addEndpoint(new StaticFile("./example/sandbox/"));
 
   server.modules["*"] = sampleModule;
-  server.listen("0.0.0.0", 8082);
+  server.listen("127.0.0.1", 8082);
 }
 
 Future getTemplateData(HttpRequest req,HttpResponse res,var data) {
