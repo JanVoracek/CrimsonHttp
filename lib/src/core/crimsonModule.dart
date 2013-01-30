@@ -20,7 +20,7 @@ class CrimsonModule  {
 
     Completer completer = new Completer();
 
-    Iterator handlerIterator = handlers.iterator();
+    HasNextIterator handlerIterator = new HasNextIterator(handlers.iterator);
     handleNext() {
       if (data["SUCCESS"] != true) {
         if (handlerIterator.hasNext) {
